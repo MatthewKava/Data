@@ -1,3 +1,4 @@
 Cars is a project for my Diploma in data analytics at the Fitzwilliam Institute in Dublin. 
 The Data was taken from Kaggle. 
 The aim is to clean and explore the data, make a multiple linear regression model and evaluate the accuracy by splitting into train and test datasets. 
+More files to be added as they are finalised.
